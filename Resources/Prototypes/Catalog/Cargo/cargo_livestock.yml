@@ -234,6 +234,6 @@
     sprite: Mobs/Animals/moproach/moproach.rsi
     state: mothroach
   product: CrateNPCMoproach
-  cost: 5000
+  cost: 6000
   category: cargoproduct-category-name-livestock
   group: market
