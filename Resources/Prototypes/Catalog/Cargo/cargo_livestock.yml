@@ -227,3 +227,13 @@
   cost: 5000
   category: cargoproduct-category-name-livestock
   group: market
+
+- type: cargoProduct
+  id: LivestockMoproach
+  icon:
+    sprite: Mobs/Animals/moproach/moproach.rsi
+    state: mothroach
+  product: CrateNPCMoproach
+  cost: 5000
+  category: cargoproduct-category-name-livestock
+  group: market
