@@ -264,3 +264,15 @@
     contents:
       - id: MobMothroach
         amount: 4
+
+- type: entity
+  id: CrateNPCMoproach
+  parent: CrateLivestock
+  name: moproach crate
+  description: A crate containing one moproach, to keep your station squeaky clean!
+  components:
+  - type: StorageFill
+    contents:
+      - id: MobMoproach
+        amount: 1
+
